@@ -1,8 +1,9 @@
+
 # FK Chain Controller Generator for Maya
 
 A small Python tool that builds a clean FK control chain from selected joints in Maya, with optional shapes from the mGear icon library.
 
-![Result](docs/result.png)
+<img width="1314" height="535" alt="Results" src="https://github.com/user-attachments/assets/48372287-32ec-4384-a8b1-ba3db2b26215" />
 
 ## What it does
 
